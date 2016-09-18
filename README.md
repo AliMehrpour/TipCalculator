@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-
+    - Add tip calculation feature to a bill system
+    - Save all calculated tips in a place (database or file) and generate daily, weekly report
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
@@ -37,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016] [Ali Mehrpour]
+    Copyright 2016 Ali Mehrpour
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
